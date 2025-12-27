@@ -2,7 +2,7 @@
 
 A modern, interactive portfolio website showcasing expertise in AI, Machine Learning, and Software Engineering. Built with a focus on premium aesthetics, smooth animations, and agentic design.
 
-![Portfolio Preview](/public/placeholder.svg)
+![Portfolio Preview](public/website%20screenshot.png)
 
 ## Features
 
