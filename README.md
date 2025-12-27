@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+# Portfolio
 
-## Project info
+A modern, interactive portfolio website showcasing expertise in AI, Machine Learning, and Software Engineering. Built with a focus on premium aesthetics, smooth animations, and agentic design.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+![Portfolio Preview](/public/placeholder.svg)
 
-## How can I edit this code?
+## Features
 
-There are several ways of editing your application.
+-   **Interactive Animations**:
+    -   **Stick Man Delivery**: A custom stick man animation (using your face icon) that runs across the screen to "deliver" your message when you submit the contact form.
+    -   **Custom Cursor Trail**: A trail of your face icons that follows the mouse cursor with physics-based movement.
+    -   **Smooth Transitions**: Fade-in effects and stagger animations for a polished user experience.
 
-**Use Lovable**
+-   **Showcase Projects**:
+    -   **Generative AI for Image Restoration**: Transforming damaged images using GANs.
+    -   **Real-Time ASL Detection**: Sign language recognition with YOLO.
+    -   **AI Agents**: Autonomous systems for stock analysis and automation.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+-   **Modern Tech Stack**: Fully responsive design with dark mode, glassmorphism, and dynamic UI components.
 
-Changes made via Lovable will be committed automatically to this repo.
+## Tech Stack
 
-**Use your preferred IDE**
+-   **Framework**: [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+-   **Language**: [TypeScript](https://www.typescriptlang.org/)
+-   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+-   **Animation**: [Framer Motion](https://www.framer.com/motion/)
+-   **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
+-   **Icons**: [Lucide React](https://lucide.dev/)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+To run this project locally:
 
-Follow these steps:
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/JeroxGR/portfolio.git
+    cd portfolio
+    ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+2.  **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+3.  **Run the development server**:
+    ```bash
+    npm run dev
+    ```
 
-# Step 3: Install the necessary dependencies.
-npm i
+4.  **Build for production**:
+    ```bash
+    npm run build
+    ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## Contact
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Feel free to reach out via the contact form on the website or connect on social media.
