@@ -46,7 +46,7 @@ const AboutSection = () => {
             <span className="gradient-text"></span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
-            With expertise in Deep Learning, Generative AI, and Agentic AI, I build intelligent systems that automate complex processes 
+            With expertise in Deep Learning, Generative AI, and Agentic AI, I build intelligent systems that automate complex processes
             and solve real-world problems. Specialized in web scraping, data engineering, and building scalable AI applications.
             Based in Paris, France. Top Rated Seller on Fiverr with 200+ successful projects.
           </p>
@@ -83,9 +83,9 @@ const AboutSection = () => {
           className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8"
         >
           {[
-            { value: '3+', label: 'Years Experience' },
+            { value: '4+', label: 'Years Experience' },
             { value: '200+', label: 'Projects Completed' },
-            { value: '97%', label: 'Model Accuracy' },
+            { value: '100%', label: 'On-time Delivery' },
             { value: '5.0★', label: 'Client Rating' },
           ].map((stat, index) => (
             <div key={stat.label} className="text-center">
