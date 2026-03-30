@@ -4,6 +4,20 @@ import { Briefcase, Calendar, MapPin } from 'lucide-react';
 
 const experiences = [
   {
+    title: 'Agentic AI Engineer',
+    company: 'CGI',
+    location: 'Paris, France',
+    period: 'Mar 2026 - Present',
+    description: 'Working on cutting-edge Agentic AI solutions, exploring and implementing the latest paradigms in autonomous AI systems and multi-agent architectures.',
+    achievements: [
+      'Designing and developing Agentic AI systems capable of autonomous decision-making and task execution',
+      'Implementing Model Context Protocol (MCP) for seamless tool and context integration in AI agents',
+      'Exploring Agent-to-Agent (A2A) communication frameworks for multi-agent collaboration',
+      'Building Computer Use pipelines enabling AI agents to interact with desktop environments autonomously',
+    ],
+    technologies: ['Python', 'Agentic AI', 'MCP', 'A2A', 'Computer Use', 'LLMs', 'Multi-Agent Systems'],
+  },
+  {
     title: 'AI Engineer - Automation & Web Scraping Expert',
     company: 'Fiverr (Top Rated Seller)',
     location: 'Remote',
